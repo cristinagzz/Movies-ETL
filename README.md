@@ -15,6 +15,6 @@ We use Jupyter Notebook and PostgresSQL to clean our data.
 
 We created two tables, Movie table with 6,052 rows + rating table with 26,024,289 rows.
 
-![movies_query](Movies-ETL/movies_query.png)
+![movies_query](/movies_query.png)
 
-![ratings_query](Movies-ETL/ratings_query.png)
+![ratings_query](/ratings_query.png)
